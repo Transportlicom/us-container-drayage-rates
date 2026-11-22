@@ -1,0 +1,10 @@
+terminal,import_quotes_n,share_quotes_without_fuel_line_pct,median_fuel_surcharge_pct_when_charged,quotes_from,quotes_through,source_url
+Los Angeles / Long Beach,1436,32.0,45.0,2026-08-18,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,1210,32.1,44.0,2026-05-14,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,1175,71.6,35.0,2026-04-03,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,1258,54.5,30.0,2026-08-03,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,1342,79.2,45.0,2026-09-25,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Savannah,1334,37.8,45.0,2026-08-19,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,1122,57.5,48.0,2026-05-12,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,1094,59.7,15.0,2026-02-24,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,1094,35.8,65.0,2026-09-18,2026-11-18,https://transportli.com/blog/drayage-rates-study/

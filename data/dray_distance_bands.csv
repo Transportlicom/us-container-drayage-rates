@@ -1,0 +1,7 @@
+distance_band,quotes_n,median_total_usd,p25_total_usd,p75_total_usd,median_per_mile_usd,data_through,source_url
+Under 25 miles,1736,502,443,623,21.62,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+25 to 50 miles,1600,624,508,720,8.98,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+50 to 100 miles,1369,775,653,950,5.49,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+100 to 200 miles,1907,1238,1080,1426,4.12,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+200 to 300 miles,2533,1600,1418,1900,3.34,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Over 300 miles,1920,2850,2300,4180,3.39,2026-11-18,https://transportli.com/blog/drayage-rates-study/

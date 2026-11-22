@@ -1,0 +1,36 @@
+{
+ "title": "US Container Drayage Rates",
+ "upload_type": "dataset",
+ "description": "<p>Container drayage price statistics by distance and terminal, fuel surcharge practice and accessorial fee figures (Transportli). CC BY 4.0.</p><p>Aggregate tables with a <code>source_url</code> column on every row that points to the Transportli page explaining the numbers. These are quotes and posted prices, not booked prices. Canonical source and method: <a href=\"https://transportli.com/blog/drayage-rates-study/\">https://transportli.com/blog/drayage-rates-study/</a>. Also on Hugging Face: <a href=\"https://huggingface.co/datasets/Transportli/us-container-drayage-rates\">Transportli/us-container-drayage-rates</a>.</p>",
+ "creators": [
+  {
+   "name": "Transportli",
+   "affiliation": "Transportli LLC"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "keywords": [
+  "drayage",
+  "container trucking",
+  "ports",
+  "freight",
+  "prices",
+  "United States"
+ ],
+ "version": "2026.11",
+ "language": "eng",
+ "publication_date": "2026-11-22",
+ "related_identifiers": [
+  {
+   "identifier": "https://huggingface.co/datasets/Transportli/us-container-drayage-rates",
+   "relation": "isAlternateIdentifier",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://transportli.com/blog/drayage-rates-study/",
+   "relation": "isDocumentedBy",
+   "scheme": "url"
+  }
+ ]
+}

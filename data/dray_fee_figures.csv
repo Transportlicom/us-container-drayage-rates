@@ -1,0 +1,7 @@
+fee,typical_unit,figures_n,median_usd,p25_usd,p75_usd,most_common_amounts_usd_count,data_through,source_url
+Chassis,per day,3843,40,40,45,$40 (1760); $45 (1384); $50 (386); $35 (116),2026-11-18,https://transportli.com/drayage-services/drayage-fees/
+Pre-pull,once,884,125,125,150,$125 (442); $150 (274); $75 (81); $120 (41),2026-11-18,https://transportli.com/drayage-services/drayage-fees/
+Storage,per day,691,40,40,40,$40 (596); $50 (70); $45 (15); $35 (9),2026-11-18,https://transportli.com/drayage-services/drayage-fees/
+Detention,per hour,103,85,70,85,$85 (62); $70 (35); $75 (5); $80 (1),2026-11-18,https://transportli.com/drayage-services/drayage-fees/
+Bridge or road toll,per trip,876,40,35,100,$35 (308); $40 (251); $100 (243); $30 (20),2026-11-18,https://transportli.com/drayage-services/drayage-fees/
+Overweight,once,295,150,150,150,$150 (247); $250 (14); $350 (12); $300 (5),2026-11-18,https://transportli.com/drayage-services/drayage-fees/

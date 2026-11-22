@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the source_url of the table you use."
+title: "US Container Drayage Rates"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+url: "https://transportli.com/blog/drayage-rates-study/"
+repository-code: "https://github.com/Transportlicom/us-container-drayage-rates"
+authors:
+  - name: "Transportli"
+    website: "https://transportli.com/"
+keywords:
+  - "drayage"
+  - "container trucking"
+  - "ports"
+  - "freight"
+  - "prices"
+  - "United States"

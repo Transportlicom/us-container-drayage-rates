@@ -1,0 +1,16 @@
+metric,value,unit,definition,data_through,source_url
+quotes_n,18000,count,"Carrier-posted drayage quotes analysed, import and return moves, nine terminals",2026-11-18,https://transportli.com/blog/drayage-rates-study/
+import_quotes_n,11065,count,"Quotes for moves out of the terminal (import), the basis of the price tables",2026-11-18,https://transportli.com/blog/drayage-rates-study/
+terminals_n,9,count,Terminal areas covered,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+carriers_n,1684,count,Distinct (anonymous) carrier codes posting quotes,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+fit_intercept_usd,517,usd,Fixed part of total price for moves up to 250 miles: total = intercept + slope x miles,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+fit_slope_usd_per_mile,4.7,usd,Added price per mile for moves up to 250 miles,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+fit_r2,0.8,ratio,R-squared of that fit across 464 lanes with at least 5 quotes from at least 3 carriers,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+price_ratio_40ft_to_20ft,1.01,ratio,Median 40 ft total divided by 20 ft total on the same lane (191 lanes),2026-11-18,https://transportli.com/blog/drayage-rates-study/
+price_ratio_return_to_outbound,0.997,ratio,Median price returning to the terminal divided by price leaving it on the same lane (172 lanes),2026-11-18,https://transportli.com/blog/drayage-rates-study/
+share_quotes_without_fuel_line_pct,50.9,percent,Share of quotes that list no separate fuel surcharge,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+median_fuel_surcharge_pct_when_charged,43.0,percent,"Median fuel surcharge among quotes that list one, as % of base",2026-11-18,https://transportli.com/blog/drayage-rates-study/
+total_price_ratio_no_fuel_line_to_with,0.98,ratio,"All-in total of quotes without a fuel line divided by quotes with one, same terminal and distance band (50 cells)",2026-11-18,https://transportli.com/blog/drayage-rates-study/
+same_lane_highest_to_lowest_ratio,1.64,ratio,Median across 423 lanes (6+ carriers) of highest quote / lowest quote,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+same_lane_cheapest_vs_median_pct,-17.8,percent,Cheapest quote versus the lane median,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+data_through,2026-11-18,date,Latest quote date in the data,2026-11-18,https://transportli.com/blog/drayage-rates-study/

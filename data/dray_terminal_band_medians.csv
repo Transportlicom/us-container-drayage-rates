@@ -1,0 +1,52 @@
+terminal,distance_band,quotes_n,median_total_usd,data_through,source_url
+Los Angeles / Long Beach,Under 25 miles,285,490,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Los Angeles / Long Beach,25 to 50 miles,202,632,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Los Angeles / Long Beach,50 to 100 miles,197,791,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Los Angeles / Long Beach,100 to 200 miles,67,1208,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Los Angeles / Long Beach,200 to 300 miles,160,1947,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Los Angeles / Long Beach,Over 300 miles,525,2839,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,Under 25 miles,124,444,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,25 to 50 miles,191,550,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,50 to 100 miles,495,680,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,100 to 200 miles,98,1033,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,200 to 300 miles,214,1408,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Oakland / San Francisco,Over 300 miles,88,3252,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,Under 25 miles,316,450,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,25 to 50 miles,147,550,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,50 to 100 miles,57,800,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,100 to 200 miles,336,1250,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,200 to 300 miles,138,1775,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Seattle / Tacoma,Over 300 miles,181,3308,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,Under 25 miles,114,700,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,25 to 50 miles,279,700,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,50 to 100 miles,80,750,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,100 to 200 miles,100,1362,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,200 to 300 miles,408,1750,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Houston,Over 300 miles,277,2470,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,Under 25 miles,303,650,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,25 to 50 miles,264,750,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,50 to 100 miles,248,1100,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,100 to 200 miles,266,1350,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,200 to 300 miles,130,1988,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+New York / New Jersey,Over 300 miles,131,3300,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Savannah,Under 25 miles,55,365,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Savannah,100 to 200 miles,192,1120,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Savannah,200 to 300 miles,635,1577,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Savannah,Over 300 miles,416,2390,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,Under 25 miles,67,490,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,50 to 100 miles,87,800,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,100 to 200 miles,376,1152,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,200 to 300 miles,402,1500,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Norfolk,Over 300 miles,185,3750,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,Under 25 miles,246,450,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,25 to 50 miles,253,462,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,50 to 100 miles,84,650,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,100 to 200 miles,164,1102,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,200 to 300 miles,292,1495,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Miami / Fort Lauderdale,Over 300 miles,55,3360,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,Under 25 miles,226,560,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,25 to 50 miles,246,652,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,50 to 100 miles,98,850,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,100 to 200 miles,308,1276,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,200 to 300 miles,154,1899,2026-11-18,https://transportli.com/blog/drayage-rates-study/
+Chicago rail ramps,Over 300 miles,62,3138,2026-11-18,https://transportli.com/blog/drayage-rates-study/
