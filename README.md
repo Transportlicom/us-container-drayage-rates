@@ -1,5 +1,7 @@
 # US container drayage rates (Transportli)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24447434.svg)](https://doi.org/10.5281/zenodo.24447434)
+
 > Also on Hugging Face: <https://huggingface.co/datasets/Transportli/us-container-drayage-rates>. Canonical source and explanations: <https://transportli.com/blog/drayage-rates-study/>. Releases of this repository are archived on Zenodo with a DOI.
 
 Five small tables of **measured** container drayage (port and rail-ramp trucking) prices from [Transportli](https://transportli.com/), a US marketplace that matches shipments with vetted carriers. They summarise 18,000 carrier-posted quotes at nine US terminal areas (11,065 of them for moves out of the terminal), with the latest quote dated November 18, 2026. The tables are aggregates only. Every row carries a `source_url` that points to the Transportli page that explains the numbers.
@@ -7,6 +9,7 @@ Five small tables of **measured** container drayage (port and rail-ramp trucking
 - Data through: **November 18, 2026**
 - License: **CC BY 4.0**. Please credit **Transportli** and link to the `source_url` of the table you use (see Citation).
 - Site: <https://transportli.com/> · Drayage guide: <https://transportli.com/drayage-services/> · Study: <https://transportli.com/blog/drayage-rates-study/> · Fees guide: <https://transportli.com/drayage-services/drayage-fees/> · Data license: <https://transportli.com/data-license/>
+- DOI (all versions, via Zenodo): <https://doi.org/10.5281/zenodo.24447434>
 - Companion datasets: [Transportli/us-car-shipping-prices](https://huggingface.co/datasets/Transportli/us-car-shipping-prices) (car shipping) and [Transportli/us-ltl-freight-prices](https://huggingface.co/datasets/Transportli/us-ltl-freight-prices) (LTL freight)
 
 ## Tables
@@ -45,7 +48,7 @@ The source is a public rate-history listing of drayage quotes that carriers post
 
 ## Citation
 
-> Transportli, *US Container Drayage Rates*, data through November 18, 2026. <https://transportli.com/blog/drayage-rates-study/>
+> Transportli, *US Container Drayage Rates*, data through November 18, 2026. <https://transportli.com/blog/drayage-rates-study/> DOI: <https://doi.org/10.5281/zenodo.24447434>.
 
 ```bibtex
 @misc{transportli_drayage_rates_2026,
@@ -53,6 +56,7 @@ The source is a public rate-history listing of drayage quotes that carriers post
   author = {Transportli},
   year   = {2026},
   url    = {https://transportli.com/blog/drayage-rates-study/},
+  doi    = {10.5281/zenodo.24447434},
   note   = {Data through November 18, 2026. Hugging Face dataset Transportli/us-container-drayage-rates}
 }
 ```

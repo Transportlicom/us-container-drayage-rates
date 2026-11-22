@@ -5,6 +5,7 @@ type: dataset
 version: "2026.11"
 date-released: "2026-11-22"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24447434
 url: "https://transportli.com/blog/drayage-rates-study/"
 repository-code: "https://github.com/Transportlicom/us-container-drayage-rates"
 authors:
