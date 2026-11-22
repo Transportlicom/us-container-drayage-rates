@@ -10,6 +10,7 @@ Five small tables of **measured** container drayage (port and rail-ramp trucking
 - License: **CC BY 4.0**. Please credit **Transportli** and link to the `source_url` of the table you use (see Citation).
 - Site: <https://transportli.com/> · Drayage guide: <https://transportli.com/drayage-services/> · Study: <https://transportli.com/blog/drayage-rates-study/> · Fees guide: <https://transportli.com/drayage-services/drayage-fees/> · Data license: <https://transportli.com/data-license/>
 - DOI (all versions, via Zenodo): <https://doi.org/10.5281/zenodo.24447434>
+- Same data on GitHub: <https://github.com/Transportlicom/us-container-drayage-rates> · Kaggle: <https://www.kaggle.com/datasets/transportli/us-container-drayage-rates>
 - Companion datasets: [Transportli/us-car-shipping-prices](https://huggingface.co/datasets/Transportli/us-car-shipping-prices) (car shipping) and [Transportli/us-ltl-freight-prices](https://huggingface.co/datasets/Transportli/us-ltl-freight-prices) (LTL freight)
 
 ## Tables
@@ -67,4 +68,5 @@ Transportli is a marketplace that connects customers with independent, vetted ca
 
 ## Changelog
 
-- November 18, 2026: first release (five tables).
+- November 2026: first release.
+- Updated monthly. Each GitHub release is archived on Zenodo with its own version DOI.
